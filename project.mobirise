@@ -1,0 +1,3975 @@
+{
+  "settings": {
+    "name": "NewSite-07-13_2311",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#fab915",
+        "secondaryColor": "#efefef",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 134,
+    "versionPublish": "3.12.1",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128-1.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "DIGITAL MEDIA SQUAD | HOME",
+        "meta_descr": "We are based in Thakur Complex, Kandivali (East), Mumbai, India. We at DMS host a pool of passionate techno-creative talents that work with you shoulder-to-shoulder in providing design and development solutions.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#fab915!important"
+            },
+            ".btn": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-2",
+          "_params": {
+            "bgColor": "#efefef",
+            "fontSize": "0.85",
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dms-logo-final-255x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DIGITAL MEDIA SQUAD</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\".\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-design.html\"><span class=\"mbri-website-theme mbr-iconfont mbr-iconfont-btn\"></span>WEB DESIGN &amp; DEVELOPMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"smm.html\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\"></span>SOCIAL MEDIA MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphic.html\"><span class=\"etl-icon icon-linegraph mbr-iconfont mbr-iconfont-btn\"></span>GRAPHIC DESIGNING&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seo.html\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>SEO &amp; G0OGLE ADWORDS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audio-visuals.html\"><span class=\"mbri-camera mbr-iconfont mbr-iconfont-btn\"></span>AUDIO VISUALS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"artistic.html\"><span class=\"mbri-change-style mbr-iconfont mbr-iconfont-btn\"></span>ARTISTIC WORK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobile-app.html\"><span class=\"etl-icon icon-mobile mbr-iconfont mbr-iconfont-btn\"></span>MOBILE APPLICATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"software.html\"><span class=\"mbri-windows mbr-iconfont mbr-iconfont-btn\"></span>SOFTWARE DEVELOPEMENT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://drive.google.com/uc?export=download&amp;id=0B6iJrKK_0EIZSloyUVZQd2EyQ00\" target=\"_blank\">PORTFOLIO</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_styles": {
+            "H2": {
+              "font-size": "36px",
+              "color": "#fab915"
+            },
+            "P": {
+              "font-size": "20px",
+              "text-align": "right",
+              "color": "#ffffff"
+            },
+            "B": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/homepage-banner-new-1-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "DIGITAL MEDIA SQUAD&nbsp;",
+                "showText": false,
+                "text": "We are The <b>Social</b> Tigers of <b>Digital</b> Jungle...",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#header3-18\" data-toolbar=\"-mbrBtnMove\">WELCOME</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/slider01-banner-website-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "WEB DESIGN &amp;<br>WEB DEVELOPMENT&nbsp;",
+                "showText": true,
+                "text": "Counted among the most creative and <br>innovative web designing firms in India, <br>we offer web design solutions to accommodate<br> your business’ requirements. Our team of <br>designers and developers work cohesively<br> to bring about the best in their work.&nbsp;",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"web-design.html\" data-toolbar=\"-mbrBtnMove\">MORE</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/slider01-banner-social-media-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "SOCIAL MEDIA MARKETING",
+                "showText": true,
+                "text": "Social media marketing can improve your <br>business in some of the ways such as <br>increased brand recognition, improved brand<br> loyalty, more opportunities to convert <br>leads and better conversion rates.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"smm.html\" data-toolbar=\"-mbrBtnMove\">MORE</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/slider01-banner-graphics-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "GRAPHIC DESIGN",
+                "showText": true,
+                "text": "Graphic design is a key component of<br> content marketing. Without visual content, <br>you are missing a huge chunk of <br>communication opportunities.&nbsp;<br>Graphic design is more than just pictures .",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"graphic.html\" data-toolbar=\"-mbrBtnMove\">MORE</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/slider01-banner-audiovisual-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "AUDIO VISUALS",
+                "showText": true,
+                "text": "The importance of audio visual (AV) in delivering <br>an impactful message should not be underestimated.<br> It means the difference between another <br>corporate presentation and a real experience <br>that leaves you with a lasting message.&nbsp;",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"audio-visuals.html\" data-toolbar=\"-mbrBtnMove\">MORE</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/slider01-banner-artistic-work-1-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "ARTISTIC WORK",
+                "showText": true,
+                "text": "Gift something special for your lovable<br>  one's  on every occasion. <br>Send the customized gift with flowers  and <br>express your appreciation for having them in your life.&nbsp;",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"artistic.html\" data-toolbar=\"-mbrBtnMove\">MORE</a> "
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider-3",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-18",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fab915",
+            "showMeta": false
+          },
+          "title": "WHO WE ARE ?",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "PRE": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_anchor": "content2-19",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fab915"
+          },
+          "text": "<blockquote><p>One of the best digital marketing agencies. to design and execute digital marketing campaigns.</p><p>Enrich your digital presence today!!!</p><p>Create and scale large and complex ad programs with tools designed to maximize efficiency. Optimize with performance data, not just arbitrary rules! Increase productivity with time-saving tools that scale across regional and global programs. Gain a closed-loop view of customer activity and bid to the true value of these interactions across desktop and mobile devices. Rise towards high-value actions and audience.</p><p><br></p><p>We have some of the best technical experts who are well experienced in their respective domains while possessing the perfect skills that are required at the professional front. Our team has a strong hold over the latest web technology and it is our constant endeavour to come up with the best in terms of quality and commitment. The dedicated team of Digital Media Squad makes it an utmost priority to keep constant watch over the several online accounts that we manage on popular social networks and on other platforms. We ensure that we are able to exceed the expectations of our clients and also to prove our expertise in all the projects that we undertake.</p><p>What is our core value? A basic core value of the organization as a whole? After one drops all the high material noise and secondary objectives from the plate and leaves the bare minimum that is an absolute must to have, what does one get? Where is the truth? For us it's customer satisfaction. We exist for this basic reason.</p></blockquote>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-s",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "OUR CLIENTS",
+          "meta": "Clients satisfication is most important for us."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-q",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/wpVlih8ejvo?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#fab915",
+            "columns": "6",
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/fitness-revolution-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "fitness-revolution",
+              "title": "fitness-revolution",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/fudboy-group-of-hotels-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "fudboy",
+              "title": "fudboy",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-600x600.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "smile-middle",
+              "title": "smile-middle",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/orange-salon-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "orange-salon",
+              "title": "smile-middle",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/retreat-icecream-parlour-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "retreat",
+              "title": "retreat",
+              "linkInNewWindow": false
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/tender-fresh-natural-icecream-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "tender-fresh",
+              "title": "tender-fresh",
+              "linkInNewWindow": false
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-t",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/newsletter-2000x1158.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "JOIN DMS FAMILY",
+          "subtitle": "Subscribe to our Newsletter.",
+          "form": {
+            "action": "news@digitalmediasquad.in",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#000000"
+            },
+            "P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-x",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a6a6a6",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dms-logo-final-128x64.png",
+              "width": 128,
+              "active": true,
+              "link": "index.html",
+              "alt": "logo",
+              "title": "logo",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>Thakur Complex, Kandivali (East), Mumbai, India.&nbsp;<br>",
+          "text2": "<p><strong>Contacts</strong><br>\nEmail: support@digitalmediasquad.in<br>\nPhone: +91 7977683869<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; +91 9987250874<br></p>",
+          "text3": "<font color=\"#000000\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Important links</b></span></font><br><font color=\"#000000\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><a href=\"https://drive.google.com/uc?export=download&amp;id=0B6iJrKK_0EIZSloyUVZQd2EyQ00\" target=\"_blank\">PORTFOLIO</a><br><a href=\"http://icon.android.com\">ANDROID APP</a><br><a href=\"http://icon.mail.com\">STAFF LOGIN</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-3j",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#a6a6a6",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/digitalms54\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/digitalmediasquad\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" href=\"index.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/digital_media_squad9/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" href=\"index.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-z",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a6a6a6",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017&nbsp;| ALL RIGHTS RESERVED | DESIGN &amp; DEVELOPED BY &nbsp;<b><a href=\"index.html\">DIGITAL MEDIA SQUAD</a></b>"
+        }
+      ]
+    },
+    "about-us.html": {
+      "settings": {
+        "title": "ABOUT US",
+        "meta_descr": "We are based in Thakur Complex, Kandivali (East), Mumbai, India. We at DMS host a pool of passionate techno-creative talents that work with you shoulder-to-shoulder in providing design and development solutions"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#fab915!important"
+            },
+            ".btn": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-13",
+          "_params": {
+            "bgColor": "#efefef",
+            "fontSize": "0.85",
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dms-logo-final-255x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DIGITAL MEDIA SQUAD</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\".\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-design.html\"><span class=\"mbri-website-theme mbr-iconfont mbr-iconfont-btn\"></span>WEB DESIGN &amp; DEVELOPMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"smm.html\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\"></span>SOCIAL MEDIA MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphic.html\"><span class=\"etl-icon icon-linegraph mbr-iconfont mbr-iconfont-btn\"></span>GRAPHIC DESIGNING&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seo.html\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>SEO &amp; G0OGLE ADWORDS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audio-visuals.html\"><span class=\"mbri-camera mbr-iconfont mbr-iconfont-btn\"></span>AUDIO VISUALS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"artistic.html\"><span class=\"mbri-change-style mbr-iconfont mbr-iconfont-btn\"></span>ARTISTIC WORK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobile-app.html\"><span class=\"etl-icon icon-mobile mbr-iconfont mbr-iconfont-btn\"></span>MOBILE APPLICATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"software.html\"><span class=\"mbri-windows mbr-iconfont mbr-iconfont-btn\"></span>SOFTWARE DEVELOPEMENT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://drive.google.com/uc?export=download&amp;id=0B6iJrKK_0EIZSloyUVZQd2EyQ00\" target=\"_blank\">PORTFOLIO</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-17",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/banner1-2000x620.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "ABOUT US",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-1a",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "<p><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><b>We care to understand your business needs</b></span></font></p><blockquote><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>If you are looking for a digital agency who cares to understand your business and provide you with solutions to make your presence felt in cyber space, contribute to your business growth and increase efficiency of your operations, then look no further.</i></span></font></blockquote><blockquote><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>We are based in Thakur Complex, Kandivali (East), Mumbai, India. We at DMS host a pool of passionate techno-creative talents that work with you shoulder-to-shoulder in providing design and development solutions<b>.</b></i></span></font></blockquote><p><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><b><br></b></i></span></font></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "18px",
+              "text-align": "left",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "P": {
+              "text-align": "left",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_anchor": "msg-box5-3l",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/about-us-1400x839.png",
+              "link": "",
+              "alt": "aboutone",
+              "title": "aboutone",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "One stop design solutions",
+          "text": "<i>Be it Web designing, website re-designing, web or mobile applications, corporate AV, email campaign, banner campaign, posters, standees, news-letter or corporate branding, social media marketing,seo, smm, smo, google adwords, print and digital media, tv ads our team takes great interest in understanding your requirement and executing it within the shortest possible time and with accuracy. <br>We expertise in timely delivery of Intutive – Accurate – Contemporary and Cost effective digital media solutions.</i>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "18px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "I": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_anchor": "msg-box5-1c",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/about-us-1400x839.png",
+              "link": "",
+              "alt": "customer",
+              "title": "customer",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Relationship that lasts long",
+          "text": "<i>We know that there are many options available to our customers and we appreciate them choosing us. We strive to provide our best and make sure they will be happy. We make sure that relationship once established lasts forever.</i>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#000000"
+            },
+            "P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-14",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a6a6a6",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dms-logo-final-128x64.png",
+              "width": 128,
+              "active": true,
+              "link": "index.html",
+              "alt": "logo",
+              "title": "logo",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>Thakur Complex, Kandivali (East), Mumbai, India.&nbsp;<br>",
+          "text2": "<p><strong>Contacts</strong><br>\nEmail: support@digitalmediasquad.in<br>\nPhone: +91 7977683869<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; +91 9987250874<br></p>",
+          "text3": "<font color=\"#000000\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Important links</b></span></font><br><font color=\"#000000\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><a href=\"https://drive.google.com/uc?export=download&amp;id=0B6iJrKK_0EIZSloyUVZQd2EyQ00\" target=\"_blank\">PORTFOLIO</a><br><a href=\"http://icon.android.com\">ANDROID APP</a><br><a href=\"http://icon.mail.com\">STAFF LOGIN</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-15",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a6a6a6",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017&nbsp;| ALL RIGHTS RESERVED | DESIGN &amp; DEVELOPED BY &nbsp;<b><a href=\"index.html\">DIGITAL MEDIA SQUAD</a></b>"
+        }
+      ]
+    },
+    "web-design.html": {
+      "settings": {
+        "title": "WEB DESIGN & dEVELOPEMENT",
+        "meta_descr": "No design can create the “Wow” effect on the onlookers if it lacks in basic web design and web development elements. We know what it takes to create conspicuous designs that gels perfectly with your brand image and doesn’t get lost in the horde of average looking websites."
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#fab915!important"
+            },
+            ".btn": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1d",
+          "_params": {
+            "bgColor": "#efefef",
+            "fontSize": "0.85",
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dms-logo-final-255x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DIGITAL MEDIA SQUAD</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\".\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-design.html\"><span class=\"mbri-website-theme mbr-iconfont mbr-iconfont-btn\"></span>WEB DESIGN &amp; DEVELOPMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"smm.html\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\"></span>SOCIAL MEDIA MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphic.html\"><span class=\"etl-icon icon-linegraph mbr-iconfont mbr-iconfont-btn\"></span>GRAPHIC DESIGNING&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seo.html\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>SEO &amp; G0OGLE ADWORDS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audio-visuals.html\"><span class=\"mbri-camera mbr-iconfont mbr-iconfont-btn\"></span>AUDIO VISUALS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"artistic.html\"><span class=\"mbri-change-style mbr-iconfont mbr-iconfont-btn\"></span>ARTISTIC WORK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobile-app.html\"><span class=\"etl-icon icon-mobile mbr-iconfont mbr-iconfont-btn\"></span>MOBILE APPLICATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"software.html\"><span class=\"mbri-windows mbr-iconfont mbr-iconfont-btn\"></span>SOFTWARE DEVELOPEMENT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://drive.google.com/uc?export=download&amp;id=0B6iJrKK_0EIZSloyUVZQd2EyQ00\" target=\"_blank\">PORTFOLIO</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#ffffff",
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1g",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/header-website-2000x634.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "WEB DESIGN &amp; DEVELOPMENT",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "B": {
+              "font-size": "22px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "P": {
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "content2-1i",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<b><i>Web Design</i></b><blockquote>No design can create the “Wow” effect on the onlookers if it lacks in basic web design and web development elements. We know what it takes to create conspicuous designs that gels perfectly with your brand image and doesn’t get lost in the horde of average looking websites.</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "20px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_anchor": "msg-box5-1l",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/website-development-1400x839.png",
+              "link": "",
+              "alt": "webdesign",
+              "title": "webdesign",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Corporate Identity",
+          "text": "Counted among the most creative and innovative web designing firms in India, we offer web design solutions to accommodate your business’ requirements. Our team of designers and developers work cohesively to bring about the best in their work. Backed by knowledge of latest web designing technologies and tools, we ensure that the ensuing website is aesthetically and functionally appealing so that it reaches out to its target audience and sustain their attention.<b><br></b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "font-size": "20px"
+            },
+            "P": {
+              "text-align": "left"
+            },
+            "I": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_anchor": "msg-box5-1j",
+          "_params": {
+            "imageSize": "61",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/website-development-1400x839.png",
+              "link": "",
+              "alt": "web1",
+              "title": "web1",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "DMS web design service can help you with:",
+          "text": "<i><b>•</b>\tComputer Graphics, Movie Editing and Gaming<br>•\tWeb Graphic and Interface Design<br>•\tFlash Design and Development<br>•\tPSD to HTML/XHTML/CSS Conversion<br>•\tCustom Coded Websites (php, wordpress, HTML5)<br>•\tConcept Design and Navigation Planning<br>•\tAnimation, Shockwave &amp; Flash Motion<br>•\tImaging Solution and Graphic Enhancement<br>•\t100% Control of Code Style and Preference<br>•\tSearch Engine Optimization<br>•\tDedicated Designers and Flash Developers</i><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#000000"
+            },
+            "P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-1e",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a6a6a6",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dms-logo-final-128x64.png",
+              "width": 128,
+              "active": true,
+              "link": "index.html",
+              "alt": "logo",
+              "title": "logo",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>Thakur Complex, Kandivali (East), Mumbai, India.&nbsp;<br>",
+          "text2": "<p><strong>Contacts</strong><br>\nEmail: support@digitalmediasquad.in<br>\nPhone: +91 7977683869<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; +91 9987250874<br></p>",
+          "text3": "<font color=\"#000000\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Important links</b></span></font><br><font color=\"#000000\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><a href=\"https://drive.google.com/uc?export=download&amp;id=0B6iJrKK_0EIZSloyUVZQd2EyQ00\" target=\"_blank\">PORTFOLIO</a><br><a href=\"http://icon.android.com\">ANDROID APP</a><br><a href=\"http://icon.mail.com\">STAFF LOGIN</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-1f",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a6a6a6",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017&nbsp;| ALL RIGHTS RESERVED | DESIGN &amp; DEVELOPED BY &nbsp;<b><a href=\"index.html\">DIGITAL MEDIA SQUAD</a></b>"
+        }
+      ]
+    },
+    "smm.html": {
+      "settings": {
+        "title": "SOCIAL MEDIA MARKETING",
+        "meta_descr": "Social media marketing (SMM) can improve your business in some of the ways such as increased brand recognition, improved brand loyalty, more opportunities to convert leads and better conversion rates.\nDMS is the best social media marketing company in Mumbai. We create and manage top-performing social media campaigns for business. We use relevant social media strategies to help businesses grow and meet their goals. We manage and promote social media networks on your behalves such as Twitter, Facebook, Google Plus, Pinterest, LinkedIn, and Instagram.\n"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#fab915!important"
+            },
+            ".btn": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1t",
+          "_params": {
+            "bgColor": "#efefef",
+            "fontSize": "0.85",
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dms-logo-final-255x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DIGITAL MEDIA SQUAD</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\".\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-design.html\"><span class=\"mbri-website-theme mbr-iconfont mbr-iconfont-btn\"></span>WEB DESIGN &amp; DEVELOPMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"smm.html\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\"></span>SOCIAL MEDIA MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphic.html\"><span class=\"etl-icon icon-linegraph mbr-iconfont mbr-iconfont-btn\"></span>GRAPHIC DESIGNING&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seo.html\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>SEO &amp; G0OGLE ADWORDS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audio-visuals.html\"><span class=\"mbri-camera mbr-iconfont mbr-iconfont-btn\"></span>AUDIO VISUALS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"artistic.html\"><span class=\"mbri-change-style mbr-iconfont mbr-iconfont-btn\"></span>ARTISTIC WORK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobile-app.html\"><span class=\"etl-icon icon-mobile mbr-iconfont mbr-iconfont-btn\"></span>MOBILE APPLICATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"software.html\"><span class=\"mbri-windows mbr-iconfont mbr-iconfont-btn\"></span>SOFTWARE DEVELOPEMENT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://drive.google.com/uc?export=download&amp;id=0B6iJrKK_0EIZSloyUVZQd2EyQ00\" target=\"_blank\">PORTFOLIO</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1w",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/header-smm-2000x634.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "SOCIAL MEDIA MARKETING",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "DIV": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content2-1x",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Social media marketing (SMM) can improve your business in some of the ways such as increased brand recognition, improved brand loyalty, more opportunities to convert leads and better conversion rate.We use relevant social media strategies to help businesses grow and meet their goals. We manage and promote social media networks on your behalves such as Twitter, Facebook, Google Plus, Pinterest, LinkedIn, and Instagram.</i></span></font>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_anchor": "content2-1y",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "<p><font face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i><b>WE CAN HELP YOU WITH END-TO-END SOCIAL MEDIA STRATEGY &amp; EXECUTION.</b></i></span></font></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "18px",
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_anchor": "msg-box5-1z",
+          "_params": {
+            "imageSize": "43",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/social-media-01-1400x839.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "",
+          "text": "DMS is a one-stop solution for all your SMM Marketing needs. Now create social buzz and boost your presence online.<br>Digital Media Squad has a clever approach to achieve the client goals. We generate a word-of-mouth publicity through online social networks to boost awareness of the brand. In this ever-changing landscape of social media trends, we focus on better volume. Using the latest marketing tools and techniques.&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#000000"
+            },
+            "P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-1u",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a6a6a6",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dms-logo-final-128x64.png",
+              "width": 128,
+              "active": true,
+              "link": "index.html",
+              "alt": "logo",
+              "title": "logo",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>Thakur Complex, Kandivali (East), Mumbai, India.&nbsp;<br>",
+          "text2": "<p><strong>Contacts</strong><br>\nEmail: support@digitalmediasquad.in<br>\nPhone: +91 7977683869<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; +91 9987250874<br></p>",
+          "text3": "<font color=\"#000000\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Important links</b></span></font><br><font color=\"#000000\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><a href=\"https://drive.google.com/uc?export=download&amp;id=0B6iJrKK_0EIZSloyUVZQd2EyQ00\" target=\"_blank\">PORTFOLIO</a><br><a href=\"http://icon.android.com\">ANDROID APP</a><br><a href=\"http://icon.mail.com\">STAFF LOGIN</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-1v",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a6a6a6",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017&nbsp;| ALL RIGHTS RESERVED | DESIGN &amp; DEVELOPED BY &nbsp;<b><a href=\"index.html\">DIGITAL MEDIA SQUAD</a></b>"
+        }
+      ]
+    },
+    "graphic.html": {
+      "settings": {
+        "title": "GRAPHIC DESIGN",
+        "meta_descr": "Graphic design is more than just pictures and drawings. It is the art of communication, and problem solving through imagery. We at Digital Media Squad understand that for businesses graphics is an effective way to engage with customers. Graphic design is a key component in the marketing world overall to build brand awareness, and influence the customer’s decision making process"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#fab915!important"
+            },
+            ".btn": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-21",
+          "_params": {
+            "bgColor": "#efefef",
+            "fontSize": "0.85",
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dms-logo-final-255x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DIGITAL MEDIA SQUAD</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\".\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-design.html\"><span class=\"mbri-website-theme mbr-iconfont mbr-iconfont-btn\"></span>WEB DESIGN &amp; DEVELOPMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"smm.html\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\"></span>SOCIAL MEDIA MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphic.html\"><span class=\"etl-icon icon-linegraph mbr-iconfont mbr-iconfont-btn\"></span>GRAPHIC DESIGNING&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seo.html\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>SEO &amp; G0OGLE ADWORDS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audio-visuals.html\"><span class=\"mbri-camera mbr-iconfont mbr-iconfont-btn\"></span>AUDIO VISUALS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"artistic.html\"><span class=\"mbri-change-style mbr-iconfont mbr-iconfont-btn\"></span>ARTISTIC WORK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobile-app.html\"><span class=\"etl-icon icon-mobile mbr-iconfont mbr-iconfont-btn\"></span>MOBILE APPLICATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"software.html\"><span class=\"mbri-windows mbr-iconfont mbr-iconfont-btn\"></span>SOFTWARE DEVELOPEMENT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://drive.google.com/uc?export=download&amp;id=0B6iJrKK_0EIZSloyUVZQd2EyQ00\" target=\"_blank\">PORTFOLIO</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-24",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/header-graphics-2000x634.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "GRAPHIC DESIGNING",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_anchor": "content1-25",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><i>Graphic design is a key component of content marketing. Without visual content, you are missing a huge chunk of communication opportunities.</i></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "20px",
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_anchor": "msg-box5-26",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/graphics-01-1400x839.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "1 .Calls To Action (CTA)&nbsp;",
+          "text": "Graphic design is more than just pictures and drawings. It is the art of communication, and problem solving through imagery. We at Digital Media Squad understand that for businesses graphics is an effective way to engage with customers. Graphic design is a key component in the marketing world overall to build brand awareness, and influence the customer’s decision making process.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "20px"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_anchor": "msg-box5-27",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/graphics-03-1400x839.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "&nbsp;2. Infographic&nbsp;",
+          "text": "We also make strategic content which encourages prospects to become customers, and in content marketing, graphic design is a visual piece to guide your customers through your intended message.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#000000"
+            },
+            "P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-22",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a6a6a6",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dms-logo-final-128x64.png",
+              "width": 128,
+              "active": true,
+              "link": "index.html",
+              "alt": "logo",
+              "title": "logo",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>Thakur Complex, Kandivali (East), Mumbai, India.&nbsp;<br>",
+          "text2": "<p><strong>Contacts</strong><br>\nEmail: support@digitalmediasquad.in<br>\nPhone: +91 7977683869<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; +91 9987250874<br></p>",
+          "text3": "<font color=\"#000000\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Important links</b></span></font><br><font color=\"#000000\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><a href=\"https://drive.google.com/uc?export=download&amp;id=0B6iJrKK_0EIZSloyUVZQd2EyQ00\" target=\"_blank\">PORTFOLIO</a><br><a href=\"http://icon.android.com\">ANDROID APP</a><br><a href=\"http://icon.mail.com\">STAFF LOGIN</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-23",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a6a6a6",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017&nbsp;| ALL RIGHTS RESERVED | DESIGN &amp; DEVELOPED BY &nbsp;<b><a href=\"index.html\">DIGITAL MEDIA SQUAD</a></b>"
+        }
+      ]
+    },
+    "seo.html": {
+      "settings": {
+        "title": "SEO",
+        "meta_descr": "Digital Media Squad should be your choice, when you are looking for an SEO expert. Not only will we ensure that your website ranks high on all the important search engines, we will also ascertain that it stays there. While many people might think search engine optimization is only about adding the right keywords, with us you will come to know that it is much more. From keyword and website analysis and online marketing, there are several aspects that are now associated with SEO, we will be able to educate you about all these."
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#fab915!important"
+            },
+            ".btn": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-2a",
+          "_params": {
+            "bgColor": "#efefef",
+            "fontSize": "0.85",
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dms-logo-final-255x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DIGITAL MEDIA SQUAD</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\".\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-design.html\"><span class=\"mbri-website-theme mbr-iconfont mbr-iconfont-btn\"></span>WEB DESIGN &amp; DEVELOPMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"smm.html\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\"></span>SOCIAL MEDIA MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphic.html\"><span class=\"etl-icon icon-linegraph mbr-iconfont mbr-iconfont-btn\"></span>GRAPHIC DESIGNING&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seo.html\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>SEO &amp; G0OGLE ADWORDS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audio-visuals.html\"><span class=\"mbri-camera mbr-iconfont mbr-iconfont-btn\"></span>AUDIO VISUALS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"artistic.html\"><span class=\"mbri-change-style mbr-iconfont mbr-iconfont-btn\"></span>ARTISTIC WORK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobile-app.html\"><span class=\"etl-icon icon-mobile mbr-iconfont mbr-iconfont-btn\"></span>MOBILE APPLICATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"software.html\"><span class=\"mbri-windows mbr-iconfont mbr-iconfont-btn\"></span>SOFTWARE DEVELOPEMENT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://drive.google.com/uc?export=download&amp;id=0B6iJrKK_0EIZSloyUVZQd2EyQ00\" target=\"_blank\">PORTFOLIO</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2d",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/header-seo-1-2000x634.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "SEARCH ENGINE OPTIMIZATION",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_anchor": "content2-2f",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><i>Work with us, and learn why and how SEO is more than just your website ranking high on search engines!</i></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "20px",
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_anchor": "msg-box5-2e",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/seo-1400x839.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "OVERVIEW",
+          "text": "<i>Digital Media Squad should be your choice, when you are looking for SEO expert. Not only will we ensure that your website ranks high on all the important search engines, we will also ascertain that it stays there. While many people might think search engine optimization is only about adding the right keywords, with us you will come to know that it is much more. From keyword and website analysis and online marketing, there are several aspects that are now associated with SEO, we will be able to educate you about all these.</i><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "18px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_anchor": "msg-box5-3k",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/graphics-02-1400x839.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "<i>Each of our SEO consultant is trained to monitor the websites on a regular basis so that changes can be incorporated as soon as possible. The ranking reports will be generated on a regular basis, to keep you updated. Should any broken links or delayed loadings issues surface, we will ensure that they are taken care of on an immediate basis.</i><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#000000"
+            },
+            "P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-2b",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a6a6a6",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dms-logo-final-128x64.png",
+              "width": 128,
+              "active": true,
+              "link": "index.html",
+              "alt": "logo",
+              "title": "logo",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>Thakur Complex, Kandivali (East), Mumbai, India.&nbsp;<br>",
+          "text2": "<p><strong>Contacts</strong><br>\nEmail: support@digitalmediasquad.in<br>\nPhone: +91 7977683869<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; +91 9987250874<br></p>",
+          "text3": "<font color=\"#000000\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Important links</b></span></font><br><font color=\"#000000\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><a href=\"https://drive.google.com/uc?export=download&amp;id=0B6iJrKK_0EIZSloyUVZQd2EyQ00\" target=\"_blank\">PORTFOLIO</a><br><a href=\"http://icon.android.com\">ANDROID APP</a><br><a href=\"http://icon.mail.com\">STAFF LOGIN</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-2c",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a6a6a6",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017&nbsp;| ALL RIGHTS RESERVED | DESIGN &amp; DEVELOPED BY &nbsp;<b><a href=\"index.html\">DIGITAL MEDIA SQUAD</a></b>"
+        }
+      ]
+    },
+    "audio-visuals.html": {
+      "settings": {
+        "title": "AUDIO VISUALS",
+        "meta_descr": "The importance of audio visual (AV) in delivering an impactful message should not be underestimated. It means the difference between another corporate presentation and a real experience that leaves you with a lasting message. In the current digital age, the opportunities are endless."
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#fab915!important"
+            },
+            ".btn": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-2g",
+          "_params": {
+            "bgColor": "#efefef",
+            "fontSize": "0.85",
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dms-logo-final-255x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DIGITAL MEDIA SQUAD</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\".\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-design.html\"><span class=\"mbri-website-theme mbr-iconfont mbr-iconfont-btn\"></span>WEB DESIGN &amp; DEVELOPMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"smm.html\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\"></span>SOCIAL MEDIA MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphic.html\"><span class=\"etl-icon icon-linegraph mbr-iconfont mbr-iconfont-btn\"></span>GRAPHIC DESIGNING&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seo.html\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>SEO &amp; G0OGLE ADWORDS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audio-visuals.html\"><span class=\"mbri-camera mbr-iconfont mbr-iconfont-btn\"></span>AUDIO VISUALS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"artistic.html\"><span class=\"mbri-change-style mbr-iconfont mbr-iconfont-btn\"></span>ARTISTIC WORK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobile-app.html\"><span class=\"etl-icon icon-mobile mbr-iconfont mbr-iconfont-btn\"></span>MOBILE APPLICATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"software.html\"><span class=\"mbri-windows mbr-iconfont mbr-iconfont-btn\"></span>SOFTWARE DEVELOPEMENT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://drive.google.com/uc?export=download&amp;id=0B6iJrKK_0EIZSloyUVZQd2EyQ00\" target=\"_blank\">PORTFOLIO</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2j",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/header-avs-2000x634.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "AUDIO VISUALS",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-2k",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>The importance of audio visual (AV) in delivering an impactful message should not be underestimated. It means the difference between another corporate presentation and a real experience that leaves you with a lasting message. In the current digital age, the opportunities are endless..</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "H3": {
+              "font-size": "20px",
+              "text-align": "left"
+            },
+            "I": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_anchor": "msg-box5-2l",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/audiovisual01-1400x839.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Why Use AV ?",
+          "text": "<i>Stronger competition in the business world and the fast pace at which information is disseminated, makes it increasingly important to stand apart from others in the minds of the people who matter i.e. stakeholders such as customers, investors, sales team and the press.<br><br>Marketing your business, or delivering a particular message, using AV essentially brings the presentation alive so that the audience is able to connect with the brand and the message, which makes it easier to access psychologically, once they have left the event.</i><br><i>AV is able to bring the message alive through visuals, sound, lighting etc</i>.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "18px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_anchor": "msg-box5-2s",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "linkInNewWindow": false,
+              "name": "video",
+              "family": "et-line",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "title": "Moreover we also provide the services mentioned below:",
+          "text": "•\t Corporate AV<br>•\t Product launch<br>•\t Case presentation<br>•\t Employee motivation<br>•\tLive Action Shoot<br>•\tVideography<br>•\t White board animation<br>•\t 2D Character animation<br>•\t Flash simulation<br>•\t PowToon<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#000000"
+            },
+            "P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-2h",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a6a6a6",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dms-logo-final-128x64.png",
+              "width": 128,
+              "active": true,
+              "link": "index.html",
+              "alt": "logo",
+              "title": "logo",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>Thakur Complex, Kandivali (East), Mumbai, India.&nbsp;<br>",
+          "text2": "<p><strong>Contacts</strong><br>\nEmail: support@digitalmediasquad.in<br>\nPhone: +91 7977683869<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; +91 9987250874<br></p>",
+          "text3": "<font color=\"#000000\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Important links</b></span></font><br><font color=\"#000000\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><a href=\"https://drive.google.com/uc?export=download&amp;id=0B6iJrKK_0EIZSloyUVZQd2EyQ00\" target=\"_blank\">PORTFOLIO</a><br><a href=\"http://icon.android.com\">ANDROID APP</a><br><a href=\"http://icon.mail.com\">STAFF LOGIN</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-2i",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a6a6a6",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017&nbsp;| ALL RIGHTS RESERVED | DESIGN &amp; DEVELOPED BY &nbsp;<b><a href=\"index.html\">DIGITAL MEDIA SQUAD</a></b>"
+        }
+      ]
+    },
+    "mobile-app.html": {
+      "settings": {
+        "title": "MOBILE APPLICATION",
+        "meta_descr": "We create mobile applications across iOS, Android, Blackberry, and Symbian to help you engage and interact with your customers. Our technology team have the knowledge and skills to support your needs on this front. We go beyond creating applications – we build strategies to maximize your reach."
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#fab915!important"
+            },
+            ".btn": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-2t",
+          "_params": {
+            "bgColor": "#efefef",
+            "fontSize": "0.85",
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dms-logo-final-255x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DIGITAL MEDIA SQUAD</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\".\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-design.html\"><span class=\"mbri-website-theme mbr-iconfont mbr-iconfont-btn\"></span>WEB DESIGN &amp; DEVELOPMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"smm.html\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\"></span>SOCIAL MEDIA MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphic.html\"><span class=\"etl-icon icon-linegraph mbr-iconfont mbr-iconfont-btn\"></span>GRAPHIC DESIGNING&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seo.html\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>SEO &amp; G0OGLE ADWORDS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audio-visuals.html\"><span class=\"mbri-camera mbr-iconfont mbr-iconfont-btn\"></span>AUDIO VISUALS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"artistic.html\"><span class=\"mbri-change-style mbr-iconfont mbr-iconfont-btn\"></span>ARTISTIC WORK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobile-app.html\"><span class=\"etl-icon icon-mobile mbr-iconfont mbr-iconfont-btn\"></span>MOBILE APPLICATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"software.html\"><span class=\"mbri-windows mbr-iconfont mbr-iconfont-btn\"></span>SOFTWARE DEVELOPEMENT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://drive.google.com/uc?export=download&amp;id=0B6iJrKK_0EIZSloyUVZQd2EyQ00\" target=\"_blank\">PORTFOLIO</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2w",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/header-moblie-application-development-2000x634.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "MOBILE APPLICATION",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_anchor": "content1-2x",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "<p><br></p><blockquote><i>Digital media squad  wields the cutting edge of technology and offers full-cycle software product development to cover your business needs: from mobile applications to complex client-server systems.</i></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "18px"
+            },
+            "P": {
+              "text-align": "left",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_anchor": "msg-box5-2y",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mobile-app02-1400x839.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "linkInNewWindow": false,
+              "name": "android",
+              "family": "socicon",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Consulting services",
+          "text": "<i>Depending on your business needs, we can provide our design, development, testing and consulting services separately, elevating your ideas with our expertise.&nbsp;</i><br>Your mobile app does not stop at version 1.0—after the first successful release, we can provide ongoing support for its flexible evolution in the directions dictated by your business and your market.<i><br></i><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "18px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "B": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "msg-box5-2z",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mobile-app01-1400x839.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Support, maintenance and further evolution",
+          "text": "Your mobile solution undergoes full software development cycle, which includes: analysis of requirements; architecture; UI/UX design; iterative implementation; quality assurance; and eventual deployment<i>.</i><b><br></b><i><br></i>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#000000"
+            },
+            "P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-2u",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a6a6a6",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dms-logo-final-128x64.png",
+              "width": 128,
+              "active": true,
+              "link": "index.html",
+              "alt": "logo",
+              "title": "logo",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>Thakur Complex, Kandivali (East), Mumbai, India.&nbsp;<br>",
+          "text2": "<p><strong>Contacts</strong><br>\nEmail: support@digitalmediasquad.in<br>\nPhone: +91 7977683869<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; +91 9987250874<br></p>",
+          "text3": "<font color=\"#000000\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Important links</b></span></font><br><font color=\"#000000\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><a href=\"https://drive.google.com/uc?export=download&amp;id=0B6iJrKK_0EIZSloyUVZQd2EyQ00\" target=\"_blank\">PORTFOLIO</a><br><a href=\"http://icon.android.com\">ANDROID APP</a><br><a href=\"http://icon.mail.com\">STAFF LOGIN</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-2v",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a6a6a6",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017&nbsp;| ALL RIGHTS RESERVED | DESIGN &amp; DEVELOPED BY &nbsp;<b><a href=\"index.html\">DIGITAL MEDIA SQUAD</a></b>"
+        }
+      ]
+    },
+    "software.html": {
+      "settings": {
+        "title": "SOFTWARE DEVELOPMENT",
+        "meta_descr": "With experience in the latest technologies and standards, ProgLogix offers many of the core services that organizations require such as software development quality assurance, testing, implementation and maintenance of existing software."
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#fab915!important"
+            },
+            ".btn": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-30",
+          "_params": {
+            "bgColor": "#efefef",
+            "fontSize": "0.85",
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dms-logo-final-255x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DIGITAL MEDIA SQUAD</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\".\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-design.html\"><span class=\"mbri-website-theme mbr-iconfont mbr-iconfont-btn\"></span>WEB DESIGN &amp; DEVELOPMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"smm.html\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\"></span>SOCIAL MEDIA MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphic.html\"><span class=\"etl-icon icon-linegraph mbr-iconfont mbr-iconfont-btn\"></span>GRAPHIC DESIGNING&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seo.html\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>SEO &amp; G0OGLE ADWORDS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audio-visuals.html\"><span class=\"mbri-camera mbr-iconfont mbr-iconfont-btn\"></span>AUDIO VISUALS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"artistic.html\"><span class=\"mbri-change-style mbr-iconfont mbr-iconfont-btn\"></span>ARTISTIC WORK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobile-app.html\"><span class=\"etl-icon icon-mobile mbr-iconfont mbr-iconfont-btn\"></span>MOBILE APPLICATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"software.html\"><span class=\"mbri-windows mbr-iconfont mbr-iconfont-btn\"></span>SOFTWARE DEVELOPEMENT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://drive.google.com/uc?export=download&amp;id=0B6iJrKK_0EIZSloyUVZQd2EyQ00\" target=\"_blank\">PORTFOLIO</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-33",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/header-software-design-and-development-2000x634.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "SOFTWARE DEVELOPMENT",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_anchor": "msg-box5-34",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/software-development-01-1400x839.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "<i>With experience in the latest technologies and standards, Digital Media Squad offers many of the core services that organizations require such as software development quality assurance, testing, implementation and maintenance of existing software.<br><br>We provide custom-built application as per the customer requirement. We design and implement software solutions that work – while you concentrate on your business. Our comprehensive delivery options enable us to distribute work across global locations to align with clients' cost, speed, and risk requirements.<br><br>Digital media squad has time-proven experience and reputable expertise in the development of document management solutions, e-commerce applications, business application and automation software, custom software solutions and online applications<br></i>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#000000"
+            },
+            "P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-31",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a6a6a6",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dms-logo-final-128x64.png",
+              "width": 128,
+              "active": true,
+              "link": "index.html",
+              "alt": "logo",
+              "title": "logo",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>Thakur Complex, Kandivali (East), Mumbai, India.&nbsp;<br>",
+          "text2": "<p><strong>Contacts</strong><br>\nEmail: support@digitalmediasquad.in<br>\nPhone: +91 7977683869<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; +91 9987250874<br></p>",
+          "text3": "<font color=\"#000000\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Important links</b></span></font><br><font color=\"#000000\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><a href=\"https://drive.google.com/uc?export=download&amp;id=0B6iJrKK_0EIZSloyUVZQd2EyQ00\" target=\"_blank\">PORTFOLIO</a><br><a href=\"http://icon.android.com\">ANDROID APP</a><br><a href=\"http://icon.mail.com\">STAFF LOGIN</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-32",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a6a6a6",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017&nbsp;| ALL RIGHTS RESERVED | DESIGN &amp; DEVELOPED BY &nbsp;<b><a href=\"index.html\">DIGITAL MEDIA SQUAD</a></b>"
+        }
+      ]
+    },
+    "artistic.html": {
+      "settings": {
+        "title": "ARTISTIC WORK",
+        "meta_descr": "Gift something special for your lovable  one's  on every occasion...Send the customized gift with flowers  and express your appreciation for having them in your life.... We are providing the variation of handmade portraits and deliver to your door steps.\nUse this unique step for gifting your lovable one's and make them smile which will give you the millions of happiness on every occasion.\n"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#fab915!important"
+            },
+            ".btn": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-35",
+          "_params": {
+            "bgColor": "#efefef",
+            "fontSize": "0.85",
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dms-logo-final-255x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DIGITAL MEDIA SQUAD</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\".\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-design.html\"><span class=\"mbri-website-theme mbr-iconfont mbr-iconfont-btn\"></span>WEB DESIGN &amp; DEVELOPMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"smm.html\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\"></span>SOCIAL MEDIA MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphic.html\"><span class=\"etl-icon icon-linegraph mbr-iconfont mbr-iconfont-btn\"></span>GRAPHIC DESIGNING&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seo.html\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>SEO &amp; G0OGLE ADWORDS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audio-visuals.html\"><span class=\"mbri-camera mbr-iconfont mbr-iconfont-btn\"></span>AUDIO VISUALS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"artistic.html\"><span class=\"mbri-change-style mbr-iconfont mbr-iconfont-btn\"></span>ARTISTIC WORK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobile-app.html\"><span class=\"etl-icon icon-mobile mbr-iconfont mbr-iconfont-btn\"></span>MOBILE APPLICATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"software.html\"><span class=\"mbri-windows mbr-iconfont mbr-iconfont-btn\"></span>SOFTWARE DEVELOPEMENT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://drive.google.com/uc?export=download&amp;id=0B6iJrKK_0EIZSloyUVZQd2EyQ00\" target=\"_blank\">PORTFOLIO</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-38",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/header-artistic-work-2000x634.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "ARTISTIC WORK",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "H3": {
+              "text-align": "left",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "msg-box5-3b",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/artistic-1-1400x839.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "What is artistic work.",
+          "text": "<i><br></i><i>Gift something special for your lovable  one's  on every occasion...Send the customized gift with flowers  and express your appreciation for having them in your life.... We are providing the variation of handmade portraits and deliver to your door steps.</i><br><i><br>Use this unique step for gifting your lovable one's and make them smile which will give you the millions of happiness on every occasion.</i>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "20px"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_anchor": "msg-box5-3c",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/artistic-2-1400x839.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "What we do...",
+          "text": "<i>•&nbsp;Pencil sketch<br>•&nbsp;Charcoal sketch<br>•&nbsp;Pencil color<br>•&nbsp;Water color<br>•&nbsp;Oil painting<br>•&nbsp;Acrylic painting<br>•&nbsp;Variation of Portraits</i><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#000000"
+            },
+            "P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-36",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a6a6a6",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dms-logo-final-128x64.png",
+              "width": 128,
+              "active": true,
+              "link": "index.html",
+              "alt": "logo",
+              "title": "logo",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>Thakur Complex, Kandivali (East), Mumbai, India.&nbsp;<br>",
+          "text2": "<p><strong>Contacts</strong><br>\nEmail: support@digitalmediasquad.in<br>\nPhone: +91 7977683869<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; +91 9987250874<br></p>",
+          "text3": "<font color=\"#000000\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Important links</b></span></font><br><font color=\"#000000\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><a href=\"https://drive.google.com/uc?export=download&amp;id=0B6iJrKK_0EIZSloyUVZQd2EyQ00\" target=\"_blank\">PORTFOLIO</a><br><a href=\"http://icon.android.com\">ANDROID APP</a><br><a href=\"http://icon.mail.com\">STAFF LOGIN</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-37",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a6a6a6",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017&nbsp;| ALL RIGHTS RESERVED | DESIGN &amp; DEVELOPED BY &nbsp;<b><a href=\"index.html\">DIGITAL MEDIA SQUAD</a></b>"
+        }
+      ]
+    },
+    "contact-us.html": {
+      "settings": {
+        "title": "CONTACT US",
+        "meta_descr": "CONTACT US"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#d6d6d6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#e7e7e7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#efefef"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#fab915!important"
+            },
+            ".btn": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-3d",
+          "_params": {
+            "bgColor": "#efefef",
+            "fontSize": "0.85",
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dms-logo-final-255x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DIGITAL MEDIA SQUAD</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about-us.html\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>ABOUT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\".\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"web-design.html\"><span class=\"mbri-website-theme mbr-iconfont mbr-iconfont-btn\"></span>WEB DESIGN &amp; DEVELOPMENT</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"smm.html\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\"></span>SOCIAL MEDIA MARKETING</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphic.html\"><span class=\"etl-icon icon-linegraph mbr-iconfont mbr-iconfont-btn\"></span>GRAPHIC DESIGNING&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"seo.html\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>SEO &amp; G0OGLE ADWORDS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"audio-visuals.html\"><span class=\"mbri-camera mbr-iconfont mbr-iconfont-btn\"></span>AUDIO VISUALS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"artistic.html\"><span class=\"mbri-change-style mbr-iconfont mbr-iconfont-btn\"></span>ARTISTIC WORK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobile-app.html\"><span class=\"etl-icon icon-mobile mbr-iconfont mbr-iconfont-btn\"></span>MOBILE APPLICATIONS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"software.html\"><span class=\"mbri-windows mbr-iconfont mbr-iconfont-btn\"></span>SOFTWARE DEVELOPEMENT</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-us.html\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://drive.google.com/uc?export=download&amp;id=0B6iJrKK_0EIZSloyUVZQd2EyQ00\" target=\"_blank\">PORTFOLIO</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-3g",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/header-contact-us-2000x634.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "CONTACT US",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_anchor": "form1-3h",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "HAVE COFFEE WITH US",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "form": {
+            "action": "support@digitalmediasquad.in",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#000000"
+            },
+            "P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-3e",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a6a6a6",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dms-logo-final-128x64.png",
+              "width": 128,
+              "active": true,
+              "link": "index.html",
+              "alt": "logo",
+              "title": "logo",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>Thakur Complex, Kandivali (East), Mumbai, India.&nbsp;<br>",
+          "text2": "<p><strong>Contacts</strong><br>\nEmail: support@digitalmediasquad.in<br>\nPhone: +91 7977683869<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; +91 9987250874<br></p>",
+          "text3": "<font color=\"#000000\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Important links</b></span></font><br><font color=\"#000000\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><a href=\"https://drive.google.com/uc?export=download&amp;id=0B6iJrKK_0EIZSloyUVZQd2EyQ00\" target=\"_blank\">PORTFOLIO</a><br><a href=\"http://icon.android.com\">ANDROID APP</a><br><a href=\"http://icon.mail.com\">STAFF LOGIN</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-3f",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a6a6a6",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017&nbsp;| ALL RIGHTS RESERVED | DESIGN &amp; DEVELOPED BY &nbsp;<b><a href=\"index.html\">DIGITAL MEDIA SQUAD</a></b>"
+        }
+      ]
+    }
+  }
+}
